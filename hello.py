@@ -1,1 +1,1 @@
-print("YOSHAAAAAA ")
+print("And this is vegetto BLUUUUUE")
